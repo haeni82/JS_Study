@@ -1,1 +1,4 @@
 node_modules
+# dist 디렉터리 전체 무시
+dist/
+.cache
